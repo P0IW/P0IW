@@ -1,5 +1,7 @@
 ### 👋 Hi there! I'm Maro, a passionate beginner in the world of web development. 🌐 I'm currently on a learning adventure, exploring the realms of HTML, CSS, and JavaScript. 🚀 My goal is to become a skilled front-end developer, and I'm taking courses on Coursera, including the 'Meta Front-End Developer ' to level up my skills. 📚 Join me on this exciting journey as I strive to create beautiful and user-friendly web experiences, one line of code at a time. Let's connect and learn together! 🤝 
 
+![Radical's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true](https://camo.githubusercontent.com/6fffb466a54ac75f8392f67af4194d13d2c24dcf1815764a9cddb840898814d9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d7261646963616c))
+
 <!--
 **P0IW/P0IW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
