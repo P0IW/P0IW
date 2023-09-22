@@ -3,8 +3,9 @@
 ![I am a Front-End Developer](https://i.pinimg.com/originals/62/d4/33/62d433ee626ab093a14e6638eae655ec.jpg)
 ![Profile views](https://gpvc.arturio.dev/P0IW)  
 
-
+<p align = "center"
 I'm Maro, a passionate beginner in the world of web development. 🌐 I'm currently on a learning adventure, exploring the realms of HTML, CSS, and JavaScript. 🚀 My goal is to become a skilled front-end developer, and I'm taking courses on Coursera, including the 'Meta Front-End Developer ' to level up my skills. 📚 Join me on this exciting journey as I strive to create beautiful and user-friendly web experiences, one line of code at a time. Let's connect and learn together! 🤝
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p0iw&label=Profile%20views&color=0e75b6&style=flat" alt="p0iw" /> </p>
 
@@ -18,7 +19,7 @@ I'm Maro, a passionate beginner in the world of web development. 🌐 I'm curren
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/P0IW)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/path.etic0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/P0IW)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=P0IW&theme=radical&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P0IW)](https://github.com/anuraghazra/github-readme-stats)
-                                                             ![GitHub streak stats](https://streak-stats.demolab.com/?user=P0IW)
+                                    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&theme=radical&border_radius=20)](https://git.io/streak-stats)
 
 
 
