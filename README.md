@@ -24,7 +24,7 @@ I'm Maro, a passionate beginner in the world of web development. 🌐 I'm curren
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=P0IW&theme=radical&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P0IWlayout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P0IW&layout=compact&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=P0IW&theme=radical&border_radius=20)](https://git.io/streak-stats)
 
 <h3 align="center">Languages and Tools:</h3>
