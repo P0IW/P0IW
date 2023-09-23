@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Maro
 #### I am a Front-End Developer
 ![I am a Front-End Developer](https://i.pinimg.com/originals/62/d4/33/62d433ee626ab093a14e6638eae655ec.jpg) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=p0iw&label=Profile%20views&color=0e75b6&style=flat" alt="p0iw" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=p0iw&label=Profile%20views&color=0e75b6&style=flat" alt="p0iw" /> </p>
 
 <p align = "center">
 I'm Maro, a passionate beginner in the world of web development. 🌐 I'm currently on a learning adventure, exploring the realms of HTML, CSS, and JavaScript. 🚀 My goal is to become a skilled front-end developer, and I'm taking courses on Coursera, including the 'Meta Front-End Developer ' to level up my skills. 📚 Join me on this exciting journey as I strive to create beautiful and user-friendly web experiences, one line of code at a time. Let's connect and learn together! 🤝
